@@ -30,17 +30,17 @@ public class RobotInstructions  {
 		 * as you desire.
 		 */
 	
-	    robot.forward(15); // Move forward
-	    robot.turnRight(45);  // Turn right by 45 degrees
-	    robot.forward(50);  // Draw the first part of the petal
-	    robot.turnLeft(90);  // Turn left by 90 degrees
-	    robot.forward(50);  // Draw the second part of the petal
-	     // Turn back to the initial position
-	    robot.turnLeft (95);
+	    robot.forward(15);
+	    robot.turnRight(45);  
+	    robot.forward(50);  
+	    robot.turnLeft(90);  
+	    robot.forward(50);  
+	     
+	    robot.turnLeft (90);
 	    robot.forward(50); 
 	    robot.turnRight(90); 
 	    
-	    robot.forward(-75); // Move back to the starting position
+	    robot.forward(-75); 
 	   
 		
 	}
