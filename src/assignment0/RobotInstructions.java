@@ -35,7 +35,7 @@ public class RobotInstructions  {
 	    robot.forward(50);  
 	    robot.turnLeft(90);  
 	    robot.forward(50);  
-	     //asdfjkl;
+	    //asdfjkl
 	    robot.turnLeft (90);
 	    robot.forward(50); 
 	    robot.turnRight(90); 
